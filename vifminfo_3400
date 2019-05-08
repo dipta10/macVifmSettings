@@ -1,0 +1,357 @@
+# You can edit this file by hand, but it's recommended not to do that.
+
+# Marks:
+'H
+	/Users/dipta10/
+	..
+1540812570
+'b
+	/Users/dipta10/bin/
+	..
+1540812570
+'d
+	/Users/dipta10/Desktop
+	..
+1540892185
+'h
+	/Users/dipta10/
+	..
+1540812570
+'k
+	/Users/dipta10/Google Drive/practice/web/mac project
+	index.html
+1540896014
+'o
+	/Users/dipta10/Google Drive/programming diary
+	progarmming contest.txt
+1540815184
+'p
+	/Users/dipta10/Google Drive/programming diary
+	diary 1.ai
+1540892202
+'v
+	/Users/dipta10/Desktop/test
+	test
+1540814312
+
+# Bookmarks:
+
+# TUI:
+al
+q1
+v2
+ov
+m-1
+l2
+r2
+
+# Left window history (oldest to newest):
+d/Users/dipta10/.vim/bundle/YouCompleteMe
+	third_party
+6
+d/Users/dipta10/.vim/bundle/YouCompleteMe/third_party
+	pythonfutures
+1
+d/Users/dipta10/.vim/bundle/YouCompleteMe/third_party/pythonfutures
+	concurrent
+1
+d/Users/dipta10/.vim/bundle/YouCompleteMe/third_party/pythonfutures/concurrent
+	futures
+1
+d/Users/dipta10/.vim/bundle/YouCompleteMe/third_party/pythonfutures
+	docs
+2
+d/Users/dipta10/.vim/bundle/YouCompleteMe/third_party/pythonfutures/docs
+	conf.py
+1
+d/Users/dipta10/.vim/bundle/YouCompleteMe/third_party/pythonfutures
+	futures
+3
+d/Users/dipta10/.vim/bundle/YouCompleteMe/third_party/pythonfutures/futures
+	__init__.py
+1
+d/Users/dipta10/.vim/bundle/YouCompleteMe/third_party/pythonfutures
+	futures
+3
+d/Users/dipta10/.vim/bundle/YouCompleteMe/third_party
+	ycmd
+3
+d/Users/dipta10/.vim/bundle/YouCompleteMe/third_party/ycmd
+	ci
+1
+d/Users/dipta10/.vim/bundle/YouCompleteMe/third_party
+	ycmd
+3
+d/Users/dipta10/.vim/bundle/YouCompleteMe/third_party/ycmd
+	cpp
+4
+d/Users/dipta10/.vim/bundle/YouCompleteMe/third_party
+	ycmd
+3
+d/Users/dipta10/.vim/bundle/YouCompleteMe
+	third_party
+6
+d/Users/dipta10/.vim/bundle
+	YCM-Generator
+2
+d/Users/dipta10/.vim/bundle/YCM-Generator
+	plugin
+2
+d/Users/dipta10/.vim/bundle/YCM-Generator/plugin
+	..
+0
+d/Users/dipta10/.vim/bundle/YCM-Generator
+	fake-toolchain
+1
+d/Users/dipta10/.vim/bundle/YCM-Generator/fake-toolchain
+	Unix
+1
+d/Users/dipta10/.vim/bundle/YCM-Generator/fake-toolchain/Unix
+	..
+0
+d/Users/dipta10/.vim/bundle/YCM-Generator/fake-toolchain
+	Unix
+1
+d/Users/dipta10/.vim/bundle/YCM-Generator
+	template.py
+6
+d/Users/dipta10/.vim/bundle
+	YouCompleteMe
+3
+d/Users/dipta10/.vim/bundle/YouCompleteMe
+	plugin
+4
+d/Users/dipta10/.vim/bundle/YouCompleteMe/plugin
+	youcompleteme.vim
+1
+d/Users/dipta10/.vim/bundle/YouCompleteMe
+	python
+5
+d/Users/dipta10/.vim/bundle/YouCompleteMe/python
+	test_requirements.txt
+2
+d/Users/dipta10/.vim/bundle/YouCompleteMe
+	third_party
+6
+d/Users/dipta10/.vim/bundle/YouCompleteMe/third_party
+	ycmd
+3
+d/Users/dipta10/.vim/bundle/YouCompleteMe/third_party/ycmd
+	ycm_core.so
+31
+d/Users/dipta10/.vim/bundle/YouCompleteMe/third_party
+	requests-futures
+2
+d/Users/dipta10/.vim/bundle/YouCompleteMe/third_party/requests-futures
+	MANIFEST.in
+3
+d/Users/dipta10/.vim/bundle/YouCompleteMe/third_party
+	pythonfutures
+1
+d/Users/dipta10/.vim/bundle/YouCompleteMe/third_party/pythonfutures
+	docs
+2
+d/Users/dipta10/.vim/bundle/YouCompleteMe/third_party/pythonfutures/docs
+	conf.py
+1
+d/Users/dipta10/.vim/bundle/YouCompleteMe/third_party/pythonfutures
+	futures
+3
+d/Users/dipta10/.vim/bundle/YouCompleteMe/third_party/pythonfutures/futures
+	thread.py
+3
+d/Users/dipta10/.vim/bundle/YouCompleteMe/third_party/pythonfutures
+	concurrent
+1
+d/Users/dipta10/.vim/bundle/YouCompleteMe/third_party/pythonfutures/concurrent
+	__init__.py
+2
+d/Users/dipta10/.vim/bundle/YouCompleteMe/third_party/pythonfutures
+	concurrent
+1
+d/Users/dipta10/.vim/bundle/YouCompleteMe/third_party
+	pythonfutures
+1
+d/Users/dipta10/.vim/bundle/YouCompleteMe
+	python
+5
+d/Users/dipta10/.vim/bundle/YouCompleteMe/python
+	test_requirements.txt
+2
+d/Users/dipta10/.vim/bundle/YouCompleteMe
+	plugin
+4
+d/Users/dipta10/.vim/bundle/YouCompleteMe/plugin
+	youcompleteme.vim
+1
+d/Users/dipta10/.vim/bundle/YouCompleteMe
+	plugin
+4
+d/Users/dipta10/.vim/bundle/YouCompleteMe/plugin
+	youcompleteme.vim
+1
+d/Users/dipta10/.vim/bundle/YouCompleteMe
+	doc
+3
+d/Users/dipta10/.vim/bundle/YouCompleteMe/doc
+	youcompleteme.txt
+2
+d/Users/dipta10/.vim/bundle/YouCompleteMe
+	ci
+2
+d/Users/dipta10/.vim/bundle/Yo
+# Right window history (oldest to newest):
+D/Users/dipta10/.vim/bundle/YCM-Generator
+	plugin
+2
+D/Users/dipta10/.vim/bundle
+	YouCompleteMe
+3
+D/Users/dipta10/.vim/bundle/YouCompleteMe
+	ci
+2
+D/Users/dipta10/.vim/bundle
+	YCM-Generator
+2
+D/Users/dipta10/.vim/bundle/YCM-Generator
+	plugin
+2
+D/Users/dipta10/.vim/bundle/YCM-Generator/plugin
+	..
+0
+D/Users/dipta10/.vim/bundle/YCM-Generator
+	plugin
+2
+D/Users/dipta10/.vim/bundle/YCM-Generator/plugin
+	ycm-generator.vim
+1
+D/Users/dipta10/.vim/bundle/YCM-Generator
+	fake-toolchain
+1
+D/Users/dipta10/.vim/bundle
+	YouCompleteMe
+3
+D/Users/dipta10/.vim/bundle/YouCompleteMe
+	ci
+2
+D/Users/dipta10/.vim/bundle
+	command-t
+4
+D/Users/dipta10/.vim/bundle/command-t
+	..
+0
+D/Users/dipta10/.vim/bundle
+	fonts
+5
+D/Users/dipta10/.vim/bundle/fonts
+	3270
+1
+D/Users/dipta10/.vim/bundle
+	YouCompleteMe
+3
+D/Users/dipta10/.vim/bundle/YouCompleteMe
+	third_party
+6
+D/Users/dipta10/.vim/bundle/YouCompleteMe/third_party
+	ycmd
+3
+D/Users/dipta10/.vim/bundle/YouCompleteMe/third_party/ycmd
+	cpp
+4
+D/Users/dipta10/.vim/bundle/YouCompleteMe/third_party/ycmd/cpp
+	llvm
+2
+D/Users/dipta10/.vim/bundle/YouCompleteMe/third_party/ycmd/cpp/llvm
+	include
+1
+D/Users/dipta10/.vim/bundle/YouCompleteMe/third_party/ycmd/cpp/llvm/include
+	clang-c
+1
+D/Users/dipta10/.vim/bundle/YouCompleteMe/third_party/ycmd/cpp/llvm/include/clang-c
+	CXString.h
+4
+D/Users/dipta10/.vim/bundle/YouCompleteMe/third_party/ycmd/cpp/llvm/include
+	clang-c
+1
+D/Users/dipta10/.vim/bundle/YouCompleteMe/third_party/ycmd/cpp/llvm
+	include
+1
+ams
+	custom sort vector.cpp
+7
+d/Users/dipta10/Google Drive/programming diary
+	solved problems
+6
+d/Users/dipta10/Google Drive/programming diary/solved problems
+	8_UVA 10392 - Factoring Large Numbers.cpp
+10
+d/Users/dipta10/Google Drive/programming diary
+	pdf
+5
+d/Users/dipta10/Google Drive/programming diary/pdf
+	..
+0
+d/Users/dipta10/Google Drive/programming diary
+	learning
+4
+d/Users/dipta10/Google Drive/programming diary/learning
+	git
+2
+d/Users/dipta10/Google Drive/programming diary
+	algorithm template
+1
+d/Users/dipta10/Google Drive/programming diary/algorithm template
+	Rod Cutting Problem #dynamicprogramming.cpp
+6
+d/Users/dipta10/Google Drive/programming diary
+	solved problems
+6
+d/Users/dipta10/Google Drive
+	programming diary
+12
+d/Users/dipta10/Google Drive/programming diary
+	solved problems
+6
+d/Users/dipta10/Google Drive
+	practice
+10
+d/Users/dipta10/Google Drive/practice
+	objective c
+3
+d/Users/dipta10/Google Drive/practice/objective c
+	..
+0
+d/Users/dipta10/Google Drive/practice
+	objective c
+3
+d/Users/dipta10/Google Drive/practice/objective c
+	notes
+1
+d/Users/dipta10/Google Drive/practice/objective c/notes
+	Package.swift
+2
+d/Users/dipta10/Google Drive/practice/objective c
+	practice
+2
+d/Users/dipta10/Google Drive/practice/objective c/practice
+	DataPass_class
+1
+d/Users/dipta10/Google Drive/practice/objective c
+	notes
+1
+d/Users/dipta10/Google Drive/practice/objective c/notes
+	basic.swift
+3
+d/Users/dipta10/Google Drive/practice
+	..
+0
+d/Users/dipta10/Google Drive/programming diary/tutorialProb
+	test.swift
+12
+d/Users/dipta10/Google Drive/programming diary
+	solved problems
+6
+d/Users/dipta10/Google Drive/programming diary/solved problems
+	11_CodeChef TAAND #bitmanipulation.cpp
+13
+d
